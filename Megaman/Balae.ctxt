@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=Balae(int)
+comment0.text=\r\n\ Metodo\ que\ inicializa\ los\ valores\ de\ la\ bala\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ actor\ donde\ se\ ejecutan\ las\ acciones\ de\ la\ bala\r\n
+comment2.params=dir
+comment2.target=void\ mueveBala(int)
+comment2.text=\r\n\ En\ este\ metodo\ se\ lleva\ acabo\ el\ movimiento\ de\ la\ bala\ a\ traves\ de\ la\ pantalla\ en\ la\ direccion\ que\ apunto\ el\ enemigo\r\n
+comment3.params=
+comment3.target=void\ compruebaObjetivo()
+comment3.text=\r\n\ Aqui\ se\ comprueva\ que\ el\ objeto\ te\ tipo\ bala\ intersecte\ al\ jugador\r\n
+numComments=4

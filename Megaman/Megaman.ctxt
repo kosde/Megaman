@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Megaman()
+comment0.text=\r\n\ inicializacion\ de\ los\ parametros\ del\ jugador\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ realiza\ las\ acciones\ principales\r\n
+comment2.params=
+comment2.target=void\ Move()
+comment2.text=\r\n\ En\ este\ metodo\ se\ realizan\ las\ lecturas\ de\ teclas\ de\ direcciones\ para\ determinar\ el\ sentido\ de\ las\ imagenes\ y\ asi\ mover\ el\ jugador\ en\ la\ direccion\ correcta\r\n
+comment3.params=x\ y\ dir
+comment3.target=void\ MoveAux(int,\ int,\ int)
+comment3.text=\r\n\ Metodo\ que\ realiza\ la\ secuencia\ de\ imagenes\ para\ que\ se\ vea\ la\ animacion\ correcta\ en\ la\ direccion\ recivida\r\n
+comment4.params=
+comment4.target=void\ salta()
+comment4.text=\r\n\ Metodo\ que\ hace\ saltar\ al\ jugador\ y\ regresarlo\ a\ la\ plataforma\ donde\ lo\ reealizo\r\n
+comment5.params=x\ y\ dir
+comment5.target=void\ dispara(int,\ int,\ int)
+comment5.text=\r\n\ Metodo\ que\ hace\ que\ se\ proyecte\ una\ bala\ que\ pertenece\ al\ jugador\r\n
+comment6.params=
+comment6.target=void\ aumentaDano()
+comment6.text=\r\n\ Metodo\ que\ aumenta\ el\ da\u00F1o\ y\ asi\ reduce\ las\ vidas\ del\ jugador\r\n
+comment7.params=hpoints
+comment7.target=boolean\ isLive(int)
+comment7.text=\r\n\ Metodo\ que\ realiza\ un\ chequeo\ de\ las\ vidas\ que\ tiene\ y\ el\ da\u00F1o\ que\ a\ recivido\ para\ determinar\ si\ sigue\ con\ vida\ o\ el\ juego\ termino\r\n
+numComments=8

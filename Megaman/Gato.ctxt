@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gato()
+comment0.text=\r\n\ Metodo\ en\ el\ cual\ se\ inicializan\ los\ parametros\ del\ enemigo\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ principal\ que\ hace\ la\ ejecucion\ del\ movimiento\ de\ este\ enemigo\r\n
+comment2.params=
+comment2.target=void\ Move()
+comment2.text=\r\n\ Metodo\ que\ deacuerdo\ a\ la\ direccion\ que\ recibe\ le\ indica\ al\ enemigo\ hacia\ que\ lado\ debera\ de\ moverse\r\n
+comment3.params=dir
+comment3.target=void\ Walk(int)
+comment3.text=\r\n\ Metodo\ que\ hace\ que\ el\ enemigo\ pajaro\ tenga\ una\ secuencia\ de\ movimiento\r\n
+comment4.params=
+comment4.target=void\ compruebaObjetivo()
+comment4.text=\r\n\ En\ este\ metodo\ se\ comprueva\ que\ durante\ el\ movimiento\ realizado\ por\ el\ enemigo\ no\ tenga\ contacto\ con\ el\ jugador\ megaman\ y\ si\ es\ asi\ se\ disminuyen\ vidas\r\n
+numComments=5

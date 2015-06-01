@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=Bala(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ Actor\ donde\ se\ ejecuta\ el\ codigo\ de\ la\ bala\r\n
+comment2.params=dir
+comment2.target=void\ mueveBala(int)
+comment2.text=\ \r\n\ Metodo\ que\ mueve\ la\ bala\ a\ la\ direccion\ donde\ se\ le\ indica,\ en\ este\ caso\ la\ direccion\ donde\ este\ el\ jugador\r\n
+comment3.params=
+comment3.target=void\ compruebaObjetivo()
+comment3.text=\r\nMetodo\ que\ comprueba\ si\ la\ bala\ le\ a\ dado\ al\ objetivo;\ serian\ los\ enemigos\ del\ mundo\r\n
+numComments=4

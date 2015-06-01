@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vidas()
+comment0.text=\r\n\ Metodo\ que\ inicializa\ el\ valor\ de\ las\ vidas\ del\ jugador\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ cambia()
+comment2.text=\r\n\ Metodo\ que\ cambia\ la\ imagen\ de\ acuerdo\ al\ contador\ de\ las\ vidas\ para\ que\ puedan\ ser\ visualizadas\ por\ el\ jugador\r\n
+numComments=3
